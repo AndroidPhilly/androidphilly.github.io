@@ -6,14 +6,8 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
         <ul class="social-media-list">
+<!--
           {% if site.github_username %}
           <li>
             {% include icon-github.html username=site.github_username %}
@@ -25,11 +19,19 @@
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
           {% endif %}
+-->
+            <li><a href="http://twitter.com/androidphilly">@androidPhilly on Twitter</a></li>
+            <li><a href="http://www.meetup.com/AndroidAlliancePhilly/">Meetup</a></li>
+            <li><a href="https://phillydev.slack.com/messages/android-dev/">#Android-dev on PhillyDev.org</a></li>
         </ul>
       </div>
 
+      <div class="footer-col footer-col-2">
+        
+      </div>
+
       <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
+            <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
       </div>
     </div>
 

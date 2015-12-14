@@ -50,7 +50,9 @@
     }
 
     .page-link {
-        color: $text-color;
+        color: #333;
+        background-color:$color_secondary;
+        padding:5px;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the last one
@@ -108,7 +110,16 @@
         }
     }
 }
-
+.site-description-title{
+    padding-bottom: 22px;
+    border-bottom:1px solid #dfdfdf;
+}
+.site-description-title span{
+    font-family: "Roboto Mono";
+    font-size: 34px;
+    background-color: $color_secondary;
+    padding: 2px;
+}
 
 
 /**
