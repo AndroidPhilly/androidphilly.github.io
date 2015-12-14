@@ -8,7 +8,7 @@
 # Site settings
 title: Android Philly
 email: 
-description: > Android Philly is a community for Android developers, designers and enthusiasts around Philadelphia
+description: Android Philly is a community for Android developers, designers and enthusiasts around Philadelphia
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://androidphilly.github.io" # the base hostname & protocol for your site
 twitter_username: androidphilly
