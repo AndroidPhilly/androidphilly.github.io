@@ -9,11 +9,9 @@
 
 .site-title {
     font-size: 44px;
-    background-image: url("/images/header.gif");
     font-weight: 300;
     line-height: 56px;
     letter-spacing: -1px;
-    margin-bottom: 0;
     float: left;
     margin-top: 60px;
     text-decoration: none;
@@ -22,9 +20,25 @@
         color: white;
     }
     display: block;
-    width:371px;
-    height:136px;
+    background-repeat: no-repeat;
+    background-image: url("/images/header.gif");
     text-indent: -4000px;
+}
+
+ @media only screen and (min-width: 481px) {
+     .site-title {
+        width:371px;
+        height:136px;
+     }
+}
+ 
+
+@media only screen and (max-device-width: 480px) {
+    .site-title {
+        background-size: 185px 66px;
+        width:185px;
+        height:66px;
+     }
 }
 
 .site-nav {
