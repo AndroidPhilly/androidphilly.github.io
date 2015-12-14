@@ -212,7 +212,7 @@
     font-size: 42px;
     letter-spacing: -1px;
     line-height: 1;
-
+    font-family: 'Roboto Mono', ;
     @include media-query($on-laptop) {
         font-size: 36px;
     }
@@ -222,8 +222,9 @@
     margin-bottom: $spacing-unit;
 
     h2 {
+        color:$color_primary;
         font-size: 32px;
-
+        font-family: 'Roboto Mono', ;
         @include media-query($on-laptop) {
             font-size: 28px;
         }
@@ -231,7 +232,8 @@
 
     h3 {
         font-size: 26px;
-
+        font-family: 'Roboto Mono', ;
+        color:$color_primary;
         @include media-query($on-laptop) {
             font-size: 22px;
         }
@@ -239,7 +241,8 @@
 
     h4 {
         font-size: 20px;
-
+        color:$color_primary;
+        font-family: 'Roboto Mono', ;
         @include media-query($on-laptop) {
             font-size: 18px;
         }
