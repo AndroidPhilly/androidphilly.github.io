@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Android Philly is a community of Android Developers, Designers and Enthusiasts in and around Philadelphia. Our main meetings are organized on the last Wed of every month. You can keep track of upcoming events on our [Meetup Page](www.meetup.com/AndroidAlliancePhilly/) or by following us on [Twitter](http://twitter.com/androidphilly). A lot of the developers also hang out at the #Android-dev channel on [The Philly Dev Slack](http://phillydev.org).
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+AndroidPhilly is organized by Arpit, Chuck, Corey and John. 
