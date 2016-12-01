@@ -11,3 +11,4 @@ permalink: /talks/
 - A Practical Guide to Material Design Implementation by [Yash Prabhu](https://twitter.com/yashvprabhu) ([slides](https://speakerdeck.com/yprabhu/android-alliance-april-2016-practical-guide-to-material-design-implementation))
 - Generics, Android and You by [Ruthie Fields](https://twitter.com/theonlyruthie) ([slides](http://research-tech.github.io/reveal.javapresent/))
 - Pre-Release Testing by [Audrey Troutt](https://twitter.com/auditty) ([slides](https://prezi.com/yic-2gyycvdc/pre-release-testing/))
+- Hooked on RxJava by [Sam Halperin](https://github.com/shalperin/hooked-on-rxAndroid-talk) ([slides](https://github.com/shalperin/hooked-on-rxAndroid-talk))  
