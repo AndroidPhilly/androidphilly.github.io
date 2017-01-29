@@ -4,6 +4,11 @@ title: Previous Talks
 permalink: /talks/
 ---
 
+# 2017
+
+- Model View Presenter by [John Hunchar](https://twitter.com/jhunch) ([slides](https://docs.google.com/presentation/d/1ACKhmRDg6qpaJVkkVWyvyjs_6xwfwqVQk_Be4n2oLDA/edit#slide=id.p))
+
+# 2016
 
 - Android Anti Patterns by [Mark Murphy](https://twitter.com/commonsguy) ([slides](https://commonsware.com/presos/2016-03-Philly/#/) / [code](https://github.com/commonsguy/cw-omnibus/tree/master/AntiPatterns/Camera))
 - Developing To Design Specs by John Hunchar ( [slides](https://docs.google.com/presentation/d/1T_ODgu7_hAP-KDsiGJp692Bdkgz7Oyqgjxkyx2iEXyc/edit) )
