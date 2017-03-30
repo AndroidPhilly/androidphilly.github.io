@@ -5,6 +5,7 @@ permalink: /talks/
 ---
 
 # 2017
+- Push Notifications on Android by [Tarika Chawla](https://twitter.com/tarikachawla?lang=en) ([Slides](https://prezi.com/ag_jisaz6iv4/push-notifications-in-android/?utm_campaign=share&utm_medium=copy)) 
 
 - Model View Presenter by [John Hunchar](https://twitter.com/jhunch) ([slides](https://docs.google.com/presentation/d/1ACKhmRDg6qpaJVkkVWyvyjs_6xwfwqVQk_Be4n2oLDA/edit#slide=id.p))
 
