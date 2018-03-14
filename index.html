@@ -5,8 +5,26 @@ layout: default
 <div class="home">
 
     <h1 class="site-description-title"><span>{{ site.description }}</span></h1>
-    
-    <h4 class="page-heading">Recent Posts</h4>
+
+
+    <div class='where'>
+
+    <h4>We usually meet at the Comcast Center at the last Wednesday of every month, however certain events may be at different venues. Please check <a href='https://www.meetup.com/GDGPhilly/'>our meetup page</a> for the next event and venue</h4>
+
+    <div class="mapouter"><div class="gmap_canvas"><iframe width="800px" height="270" id="gmap_canvas" src="https://maps.google.com/maps?q=Comcast Center&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div><a href="https://www.embedgooglemap.net"></a><style>.mapouter{overflow:hidden;height:270px;width:100%;}.gmap_canvas {background:none!important;height:270px;width:415px;}</style></div>
+    <!-- <h4 class="page-heading">Recent Posts</h4> -->
+
+    </div>
+    <div class='parking'>
+
+      Note: Parking at Center City can be challenging and while we don't have a great answer for that, one of our members has recommended the underground garage in the 3 Logan Sqaure building across Arch Street
+
+      If you have better suggestions please let us know.
+
+    </div>
+
+
+
 
   <ul class="post-list">
     {% for post in site.posts %}
